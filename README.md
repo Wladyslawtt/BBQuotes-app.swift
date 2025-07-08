@@ -26,9 +26,9 @@ A clean and interactive SwiftUI app that delivers iconic quotes and episode info
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4c36fe19-2585-4af3-9344-c72a4375b242" width="300" />
-  <img src="https://github.com/user-attachments/assets/fbd78eed-15f6-426f-98f1-000cee34ef0b" width="300" />
-  <img src="https://github.com/user-attachments/assets/00637378-84a8-4786-afef-e986f066824e" width="300" />
+  <img src="https://github.com/user-attachments/assets/4c36fe19-2585-4af3-9344-c72a4375b242" width="180" />
+  <img src="https://github.com/user-attachments/assets/fbd78eed-15f6-426f-98f1-000cee34ef0b" width="180" />
+  <img src="https://github.com/user-attachments/assets/00637378-84a8-4786-afef-e986f066824e" width="180" />
 </p>
 
 
